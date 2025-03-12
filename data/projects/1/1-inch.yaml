@@ -11,6 +11,7 @@ social:
     - url: https://twitter.com/1inch
 github:
   - url: https://github.com/1inch
+  - url: https://github.com/1inch-exchange
 blockchain:
   - address: "0xee4f7b6c39e7e87af01fb9e4cee0c893ff4d63f2"
     networks:
